@@ -1,3 +1,6 @@
+[![MasterHead]
+(https://miro.medium.com/v2/resize:fit:870/1*NCGC9pN10cTacXQpBq7PvA.gif)]()
+
 - 👋 Hi, I’m Selinay Yigit
 - 👀 I’m interested in computers and programming
 - 🌱 I’m currently learning webdeveloping

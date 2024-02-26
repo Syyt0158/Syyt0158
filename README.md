@@ -4,7 +4,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/selinay-yigit-20384a2a9/) or mail: Selinayyigit032@gmail.com
 - Link to my CV:
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 

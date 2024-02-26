@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif]](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif))](https://syyt0158.io)
+[![MasterHead](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif]](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif))](https://syyt0158.io)
 
 - 👋 Hi, I’m Selinay Yigit
 - 👀 I’m interested in computers and programming

@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/Fg1M.gif)](https://syyt0158.io)
+[![MasterHead](https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/e1f2c7535510a932-95/s540x810/b1d8913ea222cad6c8dac8e82e5e99fd799e1fa4.gif)](https://syyt0158.io)
 
 - 👋 Hi, I’m Selinay Yigit
 - 👀 I’m interested in computers and programming
